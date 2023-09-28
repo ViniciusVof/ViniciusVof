@@ -13,7 +13,7 @@ I have a diverse set of skills, including but not limited to:
     <p align="left">
     <img alt="Figma" src="https://img.shields.io/badge/-Figma-EA4C1D?style=for-the-badge&logo=figma&logoColor=white" />
     <img alt="Adobe XD" src="https://img.shields.io/badge/-Adobe%20XD-450135?style=for-the-badge&logo=adobe-xd&logoColor=white" />
-      <img alt="Adobe Photoshop" src=" https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
+    <img alt="Adobe Photoshop" src=" https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
   </samp>
 
 #### 💬 Languages: <br/>
